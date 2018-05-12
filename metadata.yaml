@@ -1,0 +1,39 @@
+_repo: Some-Little-People_34205
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: archival
+  image_path: 34205-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kringle, George
+    gutenberg_agent_id: '36868'
+    url: http://www.gutenberg.org/2009/agents/36868
+description: ''
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+title: Some Little People
+url: http://www.gutenberg.org/ebooks/34205
